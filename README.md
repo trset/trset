@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trset
 - 👀 I’m interested in learning new tech
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning various languages
 - :cityscape: New Delhi, India
 
 <!---
